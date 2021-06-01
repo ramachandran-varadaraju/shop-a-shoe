@@ -1,6 +1,6 @@
 # Getting Started with Shoe shopping site
 
-This project is hosted in [Netlify](https://jovial-gates-40bd61.netlify.app).\
+This project is hosted in [Netlify](https://happy-cori-663018.netlify.app).\
 \
 \
 Here is the another link for the same project,\
